@@ -146,11 +146,11 @@ header > a {
 
 .icon > i {
     color: #99E2D0;
-    transform: rotate(180deg);
+    transform: rotate(360deg);
 }
 
 .choice-menu:hover .icon {
-    transform: rotate(180deg);
+    transform: rotate(360deg);
     transition-duration: 0.5s;
 }
 
